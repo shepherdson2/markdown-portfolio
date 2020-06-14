@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Learning Markdown syntax
+###  these are headers h1 and h3
